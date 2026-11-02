@@ -1,0 +1,7 @@
+bench/results-*.json
+__pycache__/
+# Never commit firmware, PROM/VBIOS dumps, boot logs or recovery keys.
+*.bin
+*.rom
+*.TXT
+*recovery*
