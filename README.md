@@ -1,6 +1,6 @@
 # RTX 30 Unlock Helper
 
-[Deutsch](ANLEITUNG.md) | **English**
+**Guide:** [English](GUIDE.md) | [Deutsch](ANLEITUNG.md)
 
 Companion tools for the headless USB route of
 [Windows-GPU-UNLOCK](https://github.com/windows-GPU-UNLOCK/Windows-GPU-UNLOCK):
@@ -10,7 +10,8 @@ Companion tools for the headless USB route of
 | `preflight.ps1` | Read-only check before the unlock boot: GPU, UEFI mode, Secure Boot, **BitLocker**, Fast Startup, project and firmware asset hashes |
 | `bench/bench_matmul.py` | FP32/TF32/FP16/BF16 matmul benchmark (PyTorch) |
 | `bench/compare.py` | Compares a locked and an unlocked run |
-| `ANLEITUNG.md` | Step-by-step guide in German |
+| [`GUIDE.md`](GUIDE.md) | Step-by-step guide in English |
+| [`ANLEITUNG.md`](ANLEITUNG.md) | Step-by-step guide in German |
 
 > **Disclaimer:** The unlock is experimental and changes how the GPU is initialized.
 > Use at your own risk. This repository is not affiliated with the upstream project

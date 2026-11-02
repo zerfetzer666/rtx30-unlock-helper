@@ -1,6 +1,6 @@
 # Anleitung: RTX-30-Unlock unter Windows mit USB-Stick
 
-**Deutsch** | [English](README.md)
+**Deutsch** | [English](GUIDE.md)
 
 Diese Anleitung begleitet den Headless-USB-Weg des Projekts
 [Windows-GPU-UNLOCK](https://github.com/windows-GPU-UNLOCK/Windows-GPU-UNLOCK). Sie ergänzt
